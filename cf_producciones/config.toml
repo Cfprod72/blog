@@ -1,0 +1,78 @@
+baseURL = "https://cfprod72.github.io/"
+languageCode = "en-us"
+title = "CF Producciones"
+theme = "Blonde-master"
+
+[params]
+paginator_pages = "5"
+
+archive_dropdown = "false"
+
+tagsLimit = 20
+
+    [params.post]
+    thumbnail_height = "h-48"
+
+    thumbnail_width = "w-auto"
+    
+    [params.widgets]
+    archives = true
+    categories = true
+    tags = true
+    recentposts = false
+    search = false
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Acerca de"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contacto"
+    url = "/contact/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+archive = "archives"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
+[build]
+  writeStats = true
