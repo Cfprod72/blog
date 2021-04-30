@@ -1,7 +1,7 @@
 ---
 title: "Contactos Y Entrevistados Pt 3"
 date: 2021-04-29T17:00:02-04:00
-image: "img/miniaturas/gob09.png"
+image: "img/miniaturas/gob10.png"
 tags: ["Contactos", "Entrevistas", "Momentos", "Recuerdos", "Instagram", "Gobernantes"]
 ---
 
@@ -23,7 +23,7 @@ tags: ["Contactos", "Entrevistas", "Momentos", "Recuerdos", "Instagram", "Gobern
 
 {{<figure src="/img/contactos/gob08.png" >}}
 
-{{<figure src="/img/contactos/gob10.png" >}}
+{{<figure src="/img/contactos/gob09.png" >}}
 
 {{<figure src="/img/ig/ig01.png" >}}
 
