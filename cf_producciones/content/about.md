@@ -18,7 +18,7 @@ Ha entrevistado a todos los Presidentes de Chile desde el retorno democrático. 
 
 En paralelo a su carrera televisiva trabajó en varias radios: Chilena, Agricultura, Concierto, Zero y El Conquistador.
 
-### ¿Qué puedo hacer?
+### ¿Qué hago actualmente?
 
 Reportajes, asesorías comunicacionales, coaching a empresas, videos institucionales, lobbies periodísticos,
 

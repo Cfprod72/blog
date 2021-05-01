@@ -40,6 +40,11 @@ tagsLimit = 20
     identifier = "contact"
     name = "Contacto"
     url = "/contact/"
+    weight = 4
+  [[menu.main]]
+    identifier = "clients"
+    name = "Clientes"
+    url = "/clients/"
     weight = 3
 
 [taxonomies]
