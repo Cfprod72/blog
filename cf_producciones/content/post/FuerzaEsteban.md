@@ -3,7 +3,7 @@ title: "Fuerza Esteban"
 date: 2021-03-30
 image: "img/miniaturas/f_esteban.png"
 tags: ["Entrevista", "Instagram", "Caridad"]
-archives: ["2019/03"]
+archives: ["2021/03"]
 ---
 
 Live en apoyo a nuestro colega que se realizo el día 30 de marzo vía Instagram

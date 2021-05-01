@@ -3,7 +3,7 @@ title: "Contactos Y Entrevistados"
 date: 2021-04-28T17:00:37-04:00
 image: "img/miniaturas/reun.png"
 tags: ["Contactos", "Entrevistas", "Momentos", "Recuerdos"]
-archives: ["2019/04"]
+archives: ["2021/04"]
 ---
 
 ### Potpurrí de imagenes sobre entrevistados y contactos a travez del tiempo

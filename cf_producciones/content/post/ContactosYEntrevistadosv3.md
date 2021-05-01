@@ -3,6 +3,7 @@ title: "Contactos Y Entrevistados Pt 3"
 date: 2021-04-29T17:00:02-04:00
 image: "img/miniaturas/gob10.png"
 tags: ["Contactos", "Entrevistas", "Momentos", "Recuerdos", "Instagram", "Gobernantes"]
+archives: ["2021/04"]
 ---
 
 ## Continuacion del los posts anteriores más fotografias con gobernates de chile
@@ -79,4 +80,4 @@ tags: ["Contactos", "Entrevistas", "Momentos", "Recuerdos", "Instagram", "Gobern
 
 {{<figure src="/img/ig/ig27.png" >}}
 
-Más ingormación en: https://www.instagram.com/claudio_farina_periodista/
+Más información en: https://www.instagram.com/claudio_farina_periodista/

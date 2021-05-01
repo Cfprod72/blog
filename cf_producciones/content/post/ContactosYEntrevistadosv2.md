@@ -3,7 +3,7 @@ title: "Contactos Y Entrevistados Pt 2"
 date: 2021-04-28T17:12:26-04:00
 image: "img/miniaturas/reun.png"
 tags: ["Contactos", "Entrevistas", "Momentos", "Recuerdos"]
-archives: ["2019/04"]
+archives: ["2021/04"]
 ---
 
 ### La continuacion del posteo anterior

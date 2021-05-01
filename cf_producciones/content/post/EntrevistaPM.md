@@ -3,7 +3,7 @@ title: "Entrevista a Patricia Maldonado"
 date: 2021-03-18
 image: "img/miniaturas/PM.png"
 tags: ["Entrevista", "Instagram"]
-archives: ["2019/03"]
+archives: ["2021/03"]
 ---
 
 Entrevista a Patricia Maldonado que se realizo el día 18 de marzo vía Instagram

@@ -3,7 +3,7 @@ title: "Entrevista a Eli De Caso"
 date: 2021-03-11
 image: "img/miniaturas/EDC.png"
 tags: ["Entrevista", "Instagram"]
-archives: ["2019/03"]
+archives: ["2021/03"]
 ---
 
 Entrevista a Eli De Caso que se realizo el día 11 de Marzo vía Instagram
