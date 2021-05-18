@@ -10,7 +10,7 @@ author: "Hugo Authors"
 
 <div class="content">
     <p class="mb-2">Para contactarnos, favor llene el siguente formulario.</p>
-    <form name=contact action="mailto:falexanderguz01@hotmail.com" method=post>
+    <form name=contact action="mailto:claudiofarina@cfproducciones.cl" method=post>
     <div class="mb-4">
          <input type=text placeholder="Su nombre" name=name class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
     </div>
